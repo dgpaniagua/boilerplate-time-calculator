@@ -1,6 +1,6 @@
 ## FreeCodeCamp - Scientific Computing with Python
 
-### Project 1: Arithmetic Formatter
+### Project 2: Time Calculator
 
 ### Assignment
 
