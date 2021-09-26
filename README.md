@@ -1,3 +1,7 @@
+## FreeCodeCamp - Scientific Computing with Python
+
+### Project 1: Arithmetic Formatter
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
